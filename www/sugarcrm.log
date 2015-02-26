@@ -1,0 +1,10 @@
+Wed Feb 25 17:58:44 2015 [5619][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Wed Feb 25 17:58:44 2015 [5619][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Wed Feb 25 17:58:53 2015 [1110][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Wed Feb 25 17:58:55 2015 [1110][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Wed Feb 25 17:59:01 2015 [5623][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Wed Feb 25 18:01:04 2015 [1106][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Wed Feb 25 18:01:06 2015 [1106][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Thu Feb 26 10:50:35 2015 [5394][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Thu Feb 26 11:18:15 2015 [5394][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Thu Feb 26 11:45:47 2015 [1153][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
