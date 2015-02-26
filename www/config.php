@@ -1,5 +1,5 @@
 <?php
-// created: 2015-02-25 17:57:18
+// created: 2015-02-26 16:53:30
 $sugar_config = array (
   'admin_access_control' => false,
   'admin_export_only' => false,
@@ -220,8 +220,8 @@ $sugar_config = array (
     'max_retries' => 5,
     'timeout' => 86400,
   ),
-  'js_custom_version' => '',
-  'js_lang_version' => 1,
+  'js_custom_version' => 1,
+  'js_lang_version' => 2,
   'languages' => 
   array (
     'en_us' => 'English (US)',
