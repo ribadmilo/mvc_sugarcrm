@@ -7,7 +7,6 @@ Vagrant.configure("2") do |config|
   config.vm.provider :virtualbox do |v|
       v.customize ["modifyvm", :id, "--natdnshostresolver1", "on"]
       v.customize ["modifyvm", :id, "--memory", 1024]
-      v.customize ["modifyvm", :id, "--name", "mvc_sugarcrm"]
   end
 
   config.vm.synced_folder "./www", "/var/www", :owner=> 'www-data', :group=>'www-data', :mount_options => ['dmode=775', 'fmode=775'], create: true
