@@ -52,6 +52,6 @@ mysql -uroot -proot << EOF
   create database sugarcrm;
 EOF
 
-mysql -uroot -proot sugarcrm < sugarcrm-backup.sql
+mysql -uroot -proot sugarcrm < /vagrant/sugarcrm-backup.sql
 # Make sure things are up and running as they should be
 service apache2 restart
